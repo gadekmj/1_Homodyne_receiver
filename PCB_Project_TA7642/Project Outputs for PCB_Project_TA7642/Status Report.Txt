@@ -1,0 +1,23 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [PCB_Project_TA7642.PrjPcb]
+   Generated File[PCB_AM_Copper_Signal_Top.gbr]
+   Generated File[PCB_AM_Copper_Signal_Bot.gbr]
+   Generated File[PCB_AM_Pads_Bot.gbr]
+   Generated File[PCB_AM_Pads_Top.gbr]
+   Generated File[PCB_AM_Legend_Top.gbr]
+   Generated File[PCB_AM_Legend_Bot.gbr]
+   Generated File[PCB_AM_Soldermask_Top.gbr]
+   Generated File[PCB_AM_Soldermask_Bot.gbr]
+   Generated File[PCB_AM_Paste_Top.gbr]
+   Generated File[PCB_AM_Paste_Bot.gbr]
+   Generated File[PCB_AM_Keep-out.gbr]
+   Generated File[PCB_AM_Profile.gbr]
+   Generated File[PCB_AM_NPTH_Drill.gbr]
+   Generated File[PCB_AM_PTH_Drill.gbr]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 01:32:28 On 08.01.2023
